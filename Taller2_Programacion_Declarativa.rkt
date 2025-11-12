@@ -1,12 +1,10 @@
 #lang racket
 ;; Taller 2 – Programación Declarativa (Soluciones)
-;; Autor: (tu nombre aquí)
+;; Autor: Henry Saul Martinez Flores
+;; carnet: 00012622
 ;; Fecha: 2025-11-12
 ;; IDE: VS Code + Racket
-;; --------------------------------------------------
-;; Cada ejercicio incluye la función pedida y ejemplos.
-;; Ejecuta este archivo con Racket o desde VS Code (Run).
-;; --------------------------------------------------
+
 
 (provide (all-defined-out))
 
